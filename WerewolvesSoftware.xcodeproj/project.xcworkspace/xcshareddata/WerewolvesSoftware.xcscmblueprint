@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c45fb2f7-fbb8-4888-85c5-f8c5bcbdc6e4++4723",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c45fb2f7-fbb8-4888-85c5-f8c5bcbdc6e4++4723" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c45fb2f7-fbb8-4888-85c5-f8c5bcbdc6e4++4723" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9F555745-E370-41CA-B554-B21EA6FA80CB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c45fb2f7-fbb8-4888-85c5-f8c5bcbdc6e4++4723" : "WerewolvesSoftware\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WerewolvesSoftware",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WerewolvesSoftware.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.1.10\/usvn\/svn\/xsf-ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c45fb2f7-fbb8-4888-85c5-f8c5bcbdc6e4++4723"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+framework module MZFramework2 {
+  umbrella header "MZFramework2.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers
+END
+KakaoPushMessagePropertyForApns.h
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KakaoPushMessagePropertyForApns.h
+END
+KOSessionTask+StorageAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSessionTask+StorageAPI.h
+END
+KOStoryLikeInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOStoryLikeInfo.h
+END
+KOStoryMyStoryInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOStoryMyStoryInfo.h
+END
+KakaoPushMessagePropertyForGcm.h
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KakaoPushMessagePropertyForGcm.h
+END
+KOImages.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOImages.h
+END
+KOSessionTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSessionTask.h
+END
+KOFriend.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOFriend.h
+END
+KOTalkMessageSending.h
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOTalkMessageSending.h
+END
+KOSessionTask+TokenAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSessionTask+TokenAPI.h
+END
+KOAppCall.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOAppCall.h
+END
+KOFriendContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOFriendContext.h
+END
+KOStoryCommentInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOStoryCommentInfo.h
+END
+KOBaseContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOBaseContext.h
+END
+KOChat.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOChat.h
+END
+KakaoOpenSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KakaoOpenSDK.h
+END
+KOSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSession.h
+END
+NSDictionary+SafeValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/NSDictionary+SafeValue.h
+END
+KOChatContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOChatContext.h
+END
+KOFriendOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOFriendOperation.h
+END
+KakaoPushMessageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KakaoPushMessageObject.h
+END
+KOUserInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOUserInfo.h
+END
+KOStoryProfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOStoryProfile.h
+END
+KOStoryPostInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOStoryPostInfo.h
+END
+KOSessionTask+FriendAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSessionTask+FriendAPI.h
+END
+KOLoginButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOLoginButton.h
+END
+KOStoryMyStoryImageInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOStoryMyStoryImageInfo.h
+END
+KOSessionTask+UserManagementAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSessionTask+UserManagementAPI.h
+END
+KOStoryLinkInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOStoryLinkInfo.h
+END
+KOSessionTask+AgeAuthAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSessionTask+AgeAuthAPI.h
+END
+KOSessionTask+PushAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSessionTask+PushAPI.h
+END
+KOSessionTask+StoryAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSessionTask+StoryAPI.h
+END
+KOTalkProfile.h
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOTalkProfile.h
+END
+KakaoTalkLinkObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KakaoTalkLinkObject.h
+END
+KOAccessTokenInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOAccessTokenInfo.h
+END
+KOUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOUser.h
+END
+KOHTTPMethod.h
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOHTTPMethod.h
+END
+KOStorageImageInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOStorageImageInfo.h
+END
+KakaoTalkLinkAction.h
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KakaoTalkLinkAction.h
+END
+KOStoryActorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOStoryActorInfo.h
+END
+KOSessionTask+TalkAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOSessionTask+TalkAPI.h
+END
+KOError.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOError.h
+END
+KOPushTokenInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/KaKaoSDK/KakaoOpenSDK.framework/Versions/A/Headers/KOPushTokenInfo.h
+END

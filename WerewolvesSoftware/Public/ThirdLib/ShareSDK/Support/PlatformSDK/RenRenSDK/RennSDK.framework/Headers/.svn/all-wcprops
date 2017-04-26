@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.framework/Headers
+END
+RennHttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.framework/Headers/RennHttpRequest.h
+END
+RennLoginService.h
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.framework/Headers/RennLoginService.h
+END
+RennClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.framework/Headers/RennClient.h
+END
+RennParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.framework/Headers/RennParam.h
+END
+RennService.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.framework/Headers/RennService.h
+END
+RennSDK.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.framework/Headers/RennSDK.h
+END
+RennAccessToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/RenRenSDK/RennSDK.framework/Headers/RennAccessToken.h
+END

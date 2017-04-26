@@ -1,0 +1,41 @@
+//
+//  werewovles.pch
+//  WerewolvesSoftware
+//
+//  Created by duck on 17/2/27.
+//  Copyright © 2017年 Werewolves. All rights reserved.
+//
+
+#ifndef werewovles_pch
+#define werewovles_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//框架头文件
+#import <MZFramework2/NetworkOperation.h>
+#import <MZFramework2/JsonReflex+NSObject.h>
+#import <MZFramework2/JsonReflex.h>
+#import <MZFramework2/NSArray+Model.h>
+#import <MZFramework2/XSFHub.h>
+#import <MZFramework2/BaseModelCtrl.h>
+#import <MZFramework2/XsfEncryption.h>
+
+#import <UIKit/UIKit.h>
+#import <WebKit/WebKit.h>
+
+/*
+ 全局文件
+ */
+#import "Define.h"                          //宏类
+#import "EnumHeader.h"                      //枚举
+#import "API_URL.h"                         //网络地址
+
+/*
+ 网络层分类
+ */
+#import "XSFNetworkTools.h"                 //通用
+
+
+#define HOLDER_IMAGE    @"public_image_normal"
+#define SHARE_LOGO      @"public_image_normal"
+#endif /* werewovles_pch */

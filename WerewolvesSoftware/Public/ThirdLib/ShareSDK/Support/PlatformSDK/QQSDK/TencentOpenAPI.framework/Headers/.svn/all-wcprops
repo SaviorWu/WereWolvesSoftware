@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers
+END
+TencentApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentApiInterface.h
+END
+QQApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/QQApiInterface.h
+END
+TencentMessageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentMessageObject.h
+END
+WeiBoAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/WeiBoAPI.h
+END
+sdkdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/sdkdef.h
+END
+TencentOAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentOAuth.h
+END
+QQApiInterfaceObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h
+END
+TencentOAuthObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/usvn/svn/xsf-ios/!svn/ver/1666/tags/WerewolvesSoftware/WerewolvesSoftware/Public/ThirdLib/ShareSDK/Support/PlatformSDK/QQSDK/TencentOpenAPI.framework/Headers/TencentOAuthObject.h
+END
